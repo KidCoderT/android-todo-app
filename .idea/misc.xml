@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/drawable-v24/add_task_input_field_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/drawable-v24/non_bordered_10dp_rounded_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/drawable/bordered_10dp_rounded_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/drawable/bordered_10dp_rounded_white_color_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/drawable/break_button_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/drawable/non_bordered_26dp_rounded_border.xml" value="0.3828125" />
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/drawable/open_drawer_button_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/drawable/status_bar_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/drawable/white_color_plus_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Teja/AndroidStudioProjects/MyTodoApp/app/src/main/res/layout/main_fragment.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
